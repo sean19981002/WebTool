@@ -1,4 +1,9 @@
-[Bb]in/
-[Oo]bj/
-.vs/
+/*
+!/.gitignore
+!/ScanTool/
+!/ServiceTest/
+
+**/[Bb]in/
+**/[Oo]bj/
+**/.vs/
 *.user
